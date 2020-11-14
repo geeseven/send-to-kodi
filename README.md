@@ -31,7 +31,7 @@ Using 'X' hint with this configuration.
 config.bind('X', 'hint links spawn /path/to/send-to-kodi.sh {hint-url}')
 ```
 
-### tuir
+### tuir or ttrv
 
 Using tuir's [viewing media links][2] feature with this configuration in the mailcap file.
 
